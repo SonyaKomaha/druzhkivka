@@ -1,0 +1,86 @@
+FONTLOG for Druzhkivka Regular
+==============================
+
+This file provides information on the Druzhkivka Regular font software.
+It should be distributed along with the font and any derivative works.
+
+
+BASIC FONT INFORMATION
+----------------------
+
+Druzhkivka Regular is a display, all-caps sans-serif typeface with Latin and
+Cyrillic support. It is inspired by Druzhkivka, the designer's hometown in
+eastern Ukraine, and is a tribute to a place that can no longer be returned to.
+Through its letterforms, the designer wanted to preserve the memory of the city.
+
+The typeface is made for posters, signage, banners, social media graphics,
+logos and apparel design, wherever typography needs to make a bold statement.
+It comes in a single bold style and is not intended for long running text.
+
+Design notes
+- The design began with the Cyrillic capital Д, drawn intentionally as an
+  expressive display character. It was recreated from memory of a distinctive
+  capital seen in Druzhkivka, perhaps on a monument or a sign, and simplified
+  to fit the typeface.
+- The punctuation marks are deliberately thin, creating a contrast with the
+  bold letterforms.
+- The font is all-caps. Lowercase characters are included in the character map,
+  but they use the same forms as the capitals, so typing in lowercase produces
+  capital letters.
+
+Character set
+- 177 unique glyphs (294 glyph entries in the font file, because each lowercase
+  character has its own copy of the capital form).
+- Ukrainian alphabet (33 letters, including Ґ Є І Ї) and the apostrophe.
+- Other Cyrillic letters: Ё Ы Э Ъ Ў Ј Љ Њ Ѓ Ѕ Ќ.
+- Basic Latin A-Z and 44 additional Latin letters with diacritics and
+  ligatures (for example Ą Ć Ę Ł Ń Ś Ź Ż Ö Ü Å Æ Œ Ø Ð Þ ẞ).
+- Figures 0-9.
+- Punctuation, quotation marks, dashes, brackets, mathematical signs and
+  symbols (including № € @ & # % * and the ellipsis).
+- Space and no-break space.
+
+Language support (all letters of the standard alphabet are present)
+- Cyrillic: Ukrainian, Belarusian, Bulgarian, Rusyn.
+- Latin: Polish, English, German, French, Spanish, Portuguese, Italian,
+  Catalan, Galician, Occitan, Basque, Dutch, Danish, Norwegian, Swedish,
+  Finnish, Icelandic, Faroese, Estonian, Albanian, Luxembourgish, Irish,
+  Scottish Gaelic, Indonesian / Malay, Swahili, Zulu / Xhosa, Somali,
+  Filipino, Latin.
+
+Technical notes
+- Format: OpenType with PostScript (CFF) outlines, 1000 units per em,
+  cap height 700.
+- Kerning is stored in the GPOS "kern" feature for the DFLT, cyrl and latn
+  scripts. There is no legacy "kern" table. Some applications (for example
+  video editors) may not apply GPOS kerning. In Microsoft Word, turn on
+  "Kerning for fonts" in the font's advanced settings.
+- Vertical metrics: ascender 950, descender -200, line gap 0.
+- Designed in FontLab 8.
+
+Known limitations
+- Not fully supported: Serbian and Macedonian Cyrillic (missing Ђ Ћ Џ),
+  Croatian, Bosnian and Slovenian (missing Č), Czech, Slovak, Hungarian,
+  Romanian, Turkish, Latvian, Lithuanian, Welsh, Maltese and Esperanto.
+- The hryvnia sign (₴) is not included.
+
+
+LICENSE
+-------
+
+Druzhkivka Regular is licensed under the SIL Open Font License, Version 1.1.
+See OFL.txt, or visit https://openfontlicense.org
+"Druzhkivka" is a Reserved Font Name.
+
+
+CHANGELOG
+---------
+
+1.000 (24 October 2026)
+- Initial release.
+
+
+ACKNOWLEDGEMENTS
+----------------
+
+Designer: Sofiia Boldyrieva - https://www.behance.net/phs
