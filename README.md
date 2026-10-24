@@ -3,6 +3,8 @@
 A display all-caps sans-serif typeface with Latin and Cyrillic support,
 inspired by Druzhkivka, my hometown in eastern Ukraine.
 
+Get the font from the [latest release](https://github.com/SonyaKomaha/druzhkivka/releases/latest).
+
 ## About
 
 This typeface is a tribute to a place that can no longer be returned to.
