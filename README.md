@@ -1,5 +1,3 @@
-# druzhkivka
-
 # Druzhkivka Regular
 
 A display all-caps sans-serif typeface with Latin and Cyrillic support,
