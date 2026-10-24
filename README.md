@@ -11,6 +11,9 @@ apparel design. The design began with the Cyrillic capital Д, recreated from
 memory. The punctuation is deliberately thin, in contrast with the bold
 letterforms.
 
+![Druzhkivka Regular specimen](specimen.png)
+
+
 ## Character set
 
 177 unique glyphs, Latin and Cyrillic. The font is all-caps: lowercase
